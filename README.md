@@ -20,7 +20,7 @@ Currently obsessed with AI agents, vibe coding, and making venture capital less 
 
 ### What I'm building
 
-- **TheOS** — AI-powered command center for venture capital: pipeline, research, portfolio, LP reporting
+- **TheOS** — VC OS: pipeline, research, portfolio, LP reporting
 - **BuilderMode** — personal build-in-public site with blog, products, and toolkit
 
 ### Tech
