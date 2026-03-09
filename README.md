@@ -1,26 +1,51 @@
-# Hey, I'm Tony 👋
+<div align="center">
 
-**VC by day, creator by night, OSS believer always.**
+# Tony Shapovalov
 
-I invest in startups, build products in public, and share everything I learn along the way. I believe the best way to understand building is to actually build.
+**Repeat founder turned VC. Switched to the dark side of the table, but never stopped building.**
 
-### What I'm up to
+[![X](https://img.shields.io/badge/@atmotony-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/atmotony)
+[![Telegram](https://img.shields.io/badge/@buildermode-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/buildermode)
+[![Website](https://img.shields.io/badge/buildermode.app-ff6b6b?style=for-the-badge&logo=safari&logoColor=white)](https://buildermode.app)
 
-- 🔨 Building [BuilderMode](https://buildermode.app) — my public workspace, blog & build log
-- 💼 Investing in early-stage startups
-- 🌱 Contributing to open source
-- ✍️ Writing about building, shipping, and the creator journey
-
-### Stack I vibe with
-
-`Next.js` `TypeScript` `Tailwind CSS` `React` `Node.js` `Vercel` `MDX`
-
-### Connect
-
-[![X](https://img.shields.io/badge/@atmotony-000000?style=flat&logo=x&logoColor=white)](https://x.com/atmotony)
-[![Telegram](https://img.shields.io/badge/@buildermode-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/buildermode)
-[![Website](https://img.shields.io/badge/buildermode.app-ff6b6b?style=flat&logo=safari&logoColor=white)](https://buildermode.app)
+</div>
 
 ---
 
-*Built in public with Thinkering, Vibing & Claude Code.*
+### About
+
+Repeat founder who crossed over to VC — but couldn't stop shipping. I build AI-powered tools for the venture workflow, ship side projects on weekends, and document everything in public.
+
+Currently obsessed with AI agents, vibe coding, and making venture capital less opaque.
+
+### What I'm building
+
+| Project | What it does |
+|---------|-------------|
+| **TheOS** | AI-powered command center for venture capital — pipeline, research, portfolio, LP reporting |
+| **[BuilderMode](https://buildermode.app)** | Personal build-in-public site — blog, products, toolkit |
+| **[DVC Arena](https://github.com/realproof-lab/dvc-arena)** | Can you tell real startups from AI-generated fakes? |
+
+### Tech
+
+```
+Python       ███████████████████░░   AI/ML, LLMs, VC tooling
+TypeScript   ████████████████████░   Next.js, React, full-stack
+Swift        ██████░░░░░░░░░░░░░░░   iOS apps
+Shell        ████░░░░░░░░░░░░░░░░░   CLI tools, automation
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-d4a373?style=flat&logo=anthropic&logoColor=white)
+
+---
+
+<div align="center">
+  <i>Built in public with Thinkering, Vibing & Claude Code.</i>
+</div>
