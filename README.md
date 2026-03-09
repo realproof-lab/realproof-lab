@@ -20,11 +20,8 @@ Currently obsessed with AI agents, vibe coding, and making venture capital less 
 
 ### What I'm building
 
-| Project | What it does |
-|---------|-------------|
-| **TheOS** | AI-powered command center for venture capital — pipeline, research, portfolio, LP reporting |
-| **[BuilderMode](https://buildermode.app)** | Personal build-in-public site — blog, products, toolkit |
-| **[DVC Arena](https://github.com/realproof-lab/dvc-arena)** | Can you tell real startups from AI-generated fakes? |
+- **TheOS** — AI-powered command center for venture capital: pipeline, research, portfolio, LP reporting
+- **BuilderMode** — personal build-in-public site with blog, products, and toolkit
 
 ### Tech
 
