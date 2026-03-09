@@ -1,4 +1,4 @@
-# Hey, I'm Anatoliy 👋
+# Hey, I'm Tony 👋
 
 **VC by day, creator by night, OSS believer always.**
 
